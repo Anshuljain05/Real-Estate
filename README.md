@@ -1,5 +1,3 @@
-Hosted Link: https://remarkable-entremet-c2e335.netlify.app/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Preview
+![image](https://user-images.githubusercontent.com/60061779/180659647-82863158-4767-4e08-a43a-1dc7dee3d336.png)
